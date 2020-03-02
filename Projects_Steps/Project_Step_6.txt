@@ -1,0 +1,27 @@
+## Project Step 
+#### USE CASE: Grade Display
+##### Actors
+Student
+
+##### Trigger
+customer indicates they want to know there grades
+
+##### Precondition
+Student grades have not populated 
+
+##### Post-condition
+Users grade will be posted on screen
+
+##### Normal Flow
+1. The student selects a course 
+2. The student selects the grade menu 
+3. The student clicks on course grade
+4. The students grade is displayed  
+
+##### Alternate Flow
+A. The student will find that the grades have not been populated. 
+1. The student selects a course 
+2. The student selects the grade menu 
+3. The student is Prompted that the course has not stated. 
+4. The student is returned to Step 2. 
+
