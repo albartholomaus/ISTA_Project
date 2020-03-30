@@ -1,0 +1,29 @@
+## Project Step 
+#### USE CASE: display content
+##### Actors
+teachers
+
+##### Trigger
+Teacher indicates they want to know student grades
+
+##### Precondition
+Student grades have not populated 
+
+##### Post-condition
+Users grades will be posted on screen
+
+##### Normal Flow
+1. The Teacher selects a course 
+2. The Teacher selects the grade menu 
+3. The Teacher clicks on course grade
+4. The Teacher grade is displayed  
+
+##### Alternate Flow
+A. The Teacher will find that the grades have not been populated. 
+1. The Teacher creates a course grade file
+2. The Teacher will add students 
+3. The Teacher will save 
+
+
+
+

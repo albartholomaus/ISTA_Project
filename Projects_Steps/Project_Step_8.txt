@@ -1,0 +1,28 @@
+using System;
+
+namespace ConsoleApp18
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            public void PrintUI()
+            {
+                Console.WriteLine("-------------------------------");
+                Console.WriteLine("Enter for grade retrivel");
+                Console.WriteLine("PLease select one option");
+                Console.WriteLine();
+                Console.WriteLine("1.get grades");
+                Console.WriteLine("2.return to menu");
+                Console.WriteLine("3.Print grades");
+                Console.WriteLine("0.Exit System");
+                Console.WriteLine();
+                Console.Write("Enter selection:");
+                string struserResponse = Console.ReadLine();
+                int userResponse = int.Parse(struserResponse);
+                Urespoonse logic = new Urespoonse();
+                logic.response(userResponse);
+            }
+        }
+    }
+}

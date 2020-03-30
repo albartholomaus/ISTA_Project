@@ -1,0 +1,18 @@
+## Project Step 7
+#### SRS from USE CASE: Grade Display
+
+#### Navigate Course Select 
+1. The system shall Authenticate the user against a username and password.
+2. The system shall identify if the user has the proper credentials 
+3. The system shall approve credentials if valid
+4. The system shall display the list of courses available to the user.
+5. The system shall display course grade with-in course page.
+6. The system shall display decimal grades of current course. 
+
+##### Failure to have grade in system.
+1.System shall prompte the user that the class/course has not started.
+2.system will dispaly N/A for decimal grade.
+
+
+
+
